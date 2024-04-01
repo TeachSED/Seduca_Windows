@@ -28,7 +28,7 @@ For the detailed configuration of the software, watch the Configuration
 
 You can directly download Seduca with:
 
-# [>>>Click here to download<<<](https://www.moontak.com)
+# [>>>Click here to download<<<](https://www.google.com)
 
 After you download the file, please uncompress it and then run the 'Seduca.exe'
 
