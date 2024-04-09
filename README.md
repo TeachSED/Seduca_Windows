@@ -4,9 +4,9 @@
 
 just typing key words like "cute girl",
 
-without any parameter tweaking, without any strange prompt tags.
+without any parameter tweaking, without any strange prompt tags, no need for environmental configuration, just use it for **free**.
 ## *Seduca*
-Seduca is an image generating software .
+Seduca is an **free** image generating software .
 
 Seduca has simplified the installation. After you Login and generating the first image, you need to download the nessary models, and you can easily get your image with only using mouse. Minimal GPU memory requirement is 4GB.
 
@@ -28,7 +28,7 @@ For the detailed configuration of the software, watch the Configuration
 
 You can directly download Seduca with:
 
-# [>>>Click here to download<<<](https://huggingface.co/jason0573/seduca-win64/resolve/main/seduca-1.0.0.0.zip)
+# [>>>Click here to download and use for free<<<](https://huggingface.co/jason0573/seduca-win64/resolve/main/seduca-1.0.0.0.zip)
 
 After you download the file, please uncompress it and then run the 'Seduca.exe'
 
