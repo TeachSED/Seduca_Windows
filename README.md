@@ -32,6 +32,8 @@ You can directly download Seduca with:
 
 After you download the file, please uncompress it and then run the 'Seduca.exe'
 
+### [Seduca Discord channel](https://discord.gg/KuJPRhQhAC)
+
 ## *Explain*
 
 The first time you launch the software, you need download the base model to use the module:
