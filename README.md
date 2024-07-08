@@ -15,7 +15,7 @@ For the detailed configuration of the software, watch the Configuration
 
 ## *Configuration*
 
-| Operating System | GPU | Minimal GPU Memory | Minimal System Memory | Disk Space | System Version |
+| Operating System | GPU/CPU | Minimal GPU Memory | Minimal System Memory | Disk Space | System Version |
 |-------|-------|----------|----------|----------|----------|
 | Windows | Nvidia RTX 4XXX | 4GB | 8GB | 40GB | Windows10(64) or Windows11 |
 | Windows | Nvidia RTX 3XXX | 4GB | 8GB | 40GB | Windows10(64) or Windows11 |
@@ -23,6 +23,8 @@ For the detailed configuration of the software, watch the Configuration
 | Windows | Nvidia RTX 1XXX | 4GB | 8GB | 40GB | Windows10(64) or Windows11 |
 | Windows | Nvidia GTX 900 | 4GB | 8GB | 40GB | Windows10(64) or Windows11 |
 | Windows | AMD RX560 | 4GB | 8GB | 40GB | Windows10(64) or Windows11 |
+| Windows | Intel Ultra 5 | / | 16GB | 40GB | Windows10(64) or Windows11 |
+| Windows | Intel Ultra 7 | / | 16GB | 40GB | Windows10(64) or Windows11 |
 
 ## *Install*
 
